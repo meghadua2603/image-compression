@@ -10,5 +10,7 @@ The goal of image compression coding is to save the picture as little as feasibl
 
 # modules-used
 1.scipy
+
 2.numpy
+
 3.matplotlib
